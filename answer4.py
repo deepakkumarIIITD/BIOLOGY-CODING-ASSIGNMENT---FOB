@@ -1,4 +1,3 @@
-# code by DEEPAK KUMAR 2019418
 def counter(stt , count_stt):
   counter_sum = 0
   for i in range(len(stt)-1):
@@ -53,4 +52,3 @@ def main():
   stt = start_to_end(sequence_maker(my_file))
   final(dictionary_getter(stt) , list_of_chars(dictionary_getter(stt)))
 main()
-# code by DEEPAK KUMAR 2019418

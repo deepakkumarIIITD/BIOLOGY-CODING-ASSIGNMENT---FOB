@@ -1,4 +1,3 @@
-# code by DEEPAK KUMAR 2019418
 def DNA_to_mRNA(stt):
 	empty = ""
 	for i in range(len(stt)):
@@ -54,4 +53,3 @@ def main():
 	protein = sequence_maker(my_file)
 	getter(decode(protein))
 main()
-# code by DEEPAK KUMAR 2019418

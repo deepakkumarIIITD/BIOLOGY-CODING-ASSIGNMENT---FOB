@@ -1,4 +1,3 @@
-# code by DEEPAK KUMAR 2019418
 def dH_counter(s,t):
 	counter = 0
 	for i in range(len(s)):
@@ -45,4 +44,3 @@ def main():
 	my_file = (open("input2.txt")).read()
 	final(string_getter(decoder(my_file),my_file))
 main()
-# code by DEEPAK KUMAR 2019418

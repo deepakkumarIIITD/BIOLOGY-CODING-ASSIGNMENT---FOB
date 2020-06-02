@@ -1,4 +1,3 @@
-# code by DEEPAK KUMAR 2019418
 def sequence_3_sorter(stt):
 	l = []
 	i = 0;
@@ -111,5 +110,3 @@ def main():
 	RNA = sequence_maker(my_file)
 	to_sum(proper_codon_giver(requiered_array(calculas(sequence_3_sorter(RNA))),maker(requiered_array(calculas(sequence_3_sorter(RNA))))))
 main()
-
-# code by DEEPAK KUMAR 2019418
